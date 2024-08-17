@@ -17,6 +17,8 @@ I am a neuroscientist interested in the modulatory regulation of neural networks
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/inkscape/inkscape-plain.svg" height="40" alt="inkscape logo"  />
+  <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
@@ -25,6 +27,9 @@ I am a neuroscientist interested in the modulatory regulation of neural networks
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
+
+
+  
 <!--
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anneser)](https://github.com/anuraghazra/github-readme-stats)
 </div>
