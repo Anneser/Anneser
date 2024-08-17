@@ -25,12 +25,12 @@ I am a neuroscientist interested in the modulatory regulation of neural networks
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
-
- 
+<!--
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anneser)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ###
-<!--
+
 **Anneser/Anneser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
